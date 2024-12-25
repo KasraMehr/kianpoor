@@ -12,9 +12,9 @@ function Pros() {
         مزایای باشگاه کیانپور
         </div>
         <div className="flex space-x-11 justify-center pt-8">
-          <ProCard1 />
-          <ProCard2 />
           <ProCard3 />
+          <ProCard2 />
+          <ProCard1 />
         </div>
       </div>
     </>
