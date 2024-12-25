@@ -15,7 +15,7 @@ function Gallery() {
   return (
     <>
       <div className="px-20 pt-24" dir='rtl'>
-        <div className="text-3xl font-semibold justify-end">
+        <div className="text-3xl font-semibold text-center">
           گالری
         </div>
         <div className="flex pt-12 justify-center pt-10">

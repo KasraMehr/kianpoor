@@ -7,6 +7,7 @@ import ContactUs from './components/ContactUs.jsx'
 import AboutUs from "./components/AboutUs.jsx";
 import Masters from "./components/Masters.jsx";
 import Footer from "./components/Footer.jsx";
+import Sports from "./components/Sports.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <AboutUs />
       <ContactUs />
       <Masters />
+      <Sports />
       <Gallery />
       <Footer />
 

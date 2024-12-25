@@ -9,14 +9,14 @@ function ContactUs() {
       <div className="text-4xl font-bold pt-20">
         همین حالا ثبت نام کنید
       </div>
-      <div className="text-base font-medium">
+      <div className="text-base font-medium pt-4">
         به جمع ما بپیوندید و از امکانات بی نظیر ورزشی بهره مند شوید.
       </div>
       <div className="w-10/12 border flex flex-col border-white border-2 mt-20 items-center rounded-2xl pb-6">
         <div className="pt-8 font-medium text-3xl">
           شماره تماس مجموعه برای ثبت نام
         </div>
-        <div className="text-base justify-center font-medium">
+        <div className="text-base justify-center font-medium pt-4">
           راه های ارتباطی
         </div>
         <div className="pt-12 flex justify-center">
