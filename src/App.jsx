@@ -6,6 +6,7 @@ import MasterCard1 from './components/cards/MasterCard1.jsx'
 import ContactUs from './components/ContactUs.jsx'
 import AboutUs from "./components/AboutUs.jsx";
 import Masters from "./components/Masters.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -13,8 +14,10 @@ function App() {
       <Pros />
       <AboutUs />
       <ContactUs />
-      <Gallery />
       <Masters />
+      <Gallery />
+      <Footer />
+
 
     </div>
   )
