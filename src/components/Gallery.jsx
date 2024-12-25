@@ -19,19 +19,19 @@ function Gallery() {
           گالری
         </div>
         <div className="flex pt-12 justify-center pt-10">
-          <img src={A} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={B} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={C} alt="img1" className= "w-96 h-80 rounded pl-10" />
+          <img src={A} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={B} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={C} alt="img1" className= "w-96 h-80 rounded ml-10" />
         </div>
         <div className="flex pt-12 justify-center pt-10">
-          <img src={D} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={E} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={F} alt="img1" className= "w-96 h-80 rounded pl-10" />
+          <img src={D} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={E} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={F} alt="img1" className= "w-96 h-80 rounded ml-10" />
         </div>
         <div className="flex pt-12 justify-center pt-10">
-          <img src={G} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={H} alt="img1" className= "w-96 h-80 rounded pl-10" />
-          <img src={I} alt="img1" className= "w-96 h-80 rounded pl-10" />
+          <img src={G} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={H} alt="img1" className= "w-96 h-80 rounded ml-10" />
+          <img src={I} alt="img1" className= "w-96 h-80 rounded ml-10" />
         </div>
       </div>
     </>
