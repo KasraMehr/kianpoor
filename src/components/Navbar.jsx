@@ -11,19 +11,19 @@ function Navbar() {
                     {/* منوی اصلی */}
                     <div className="hidden sm:block">
                         <div className="flex text-white">
-                            <a href="#" className="px-4 py-2 text-xl font-medium text-white">
+                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 خانه
                             </a>
-                            <a href="#" className="px-4 py-2 text-xl font-medium text-white">
+                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 درباره ما
                             </a>
-                            <a href="#" className="px-4 py-2 text-xl font-medium text-white">
+                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 تماس با ما
                             </a>
-                            <a href="#" className="px-4 py-2 text-xl font-medium text-white">
+                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 اساتید
                             </a>
-                            <a href="#" className="px-4 py-2 text-xl font-medium text-white">
+                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 ورزش‌ها
                             </a>
                         </div>

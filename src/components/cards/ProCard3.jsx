@@ -4,14 +4,12 @@ import Dumble from '../../assets/images/dumble.svg'
 function ProCode3() {
   return (
     <>
-    <div className="w-80 h-80 rounded-xl overflow-hidden border border-primary" dir='rtl'>
-      <div className="px-6 py-4">
+      <div className="w-full sm:w-80 h-auto sm:h-80 rounded-xl overflow-hidden border border-primary p-4" dir='rtl'>
         <img src={Dumble} alt="Dumble"/>
-        <div className="font-bold text-xl mb-2">امکانات به‌روز و حرفه‌ای</div>
-        <p className="text-gray-700 text-base text-justify">
+        <div className="font-bold text-lg sm:text-xl mb-2">امکانات به‌روز و حرفه‌ای</div>
+        <p className="text-gray-700 text-sm sm:text-base text-justify">
           این نوع باشگاه‌ها معمولاً از تجهیزات و امکانات مدرن و به‌روز بهره‌مند هستند. وجود دستگاه‌های ورزشی پیشرفته و فضاهای مناسب برای تمرینات مختلف، به اعضا کمک می‌کند تا به بهترین شکل ممکن به اهداف ورزشی خود دست یابند و تجربه‌ای لذت‌بخش از ورزش داشته باشند.
         </p>
-        </div>
       </div>
     </>
   )
