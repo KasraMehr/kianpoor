@@ -16,7 +16,7 @@ function MasterCard1() {
             نعمت الله مهرعلی زاده
           </div>
           {/* رشته ورزشی */}
-          <div className="bg-secondary w-48 sm:w-96 text-center text-sm sm:text-base font-medium py-1">
+          <div className="bg-secondary w-48 sm:w-96 text-center text-sm sm:text-base font-medium py-2">
             تکواندو
           </div>
         </div>

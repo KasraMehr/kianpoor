@@ -10,7 +10,7 @@ function Navbar() {
                 <div className="flex justify-between items-center px-4 sm:px-8">
                     {/* منوی اصلی */}
                     <div className="hidden sm:block">
-                        <div className="flex text-white">
+                        <div className="flex text-white pr-10">
                             <a href="#" className="px-6 py-2 text-xl font-regular text-white">
                                 خانه
                             </a>
@@ -83,7 +83,6 @@ function Navbar() {
                         </a>
                     </div>
                 </div>
-                <hr />
             </nav>
         </>
     );

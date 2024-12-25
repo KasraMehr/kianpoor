@@ -6,7 +6,6 @@ body {
     overflow-x: hidden;
 }
 
-
 @font-face {
     font-family: 'Vazirmatn';
     src: url('./assets/fonts/Vazirmatn/Vazirmatn-Regular.woff2') format('woff2'),
