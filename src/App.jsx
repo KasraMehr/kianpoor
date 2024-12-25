@@ -8,17 +8,19 @@ import AboutUs from "./components/AboutUs.jsx";
 import Masters from "./components/Masters.jsx";
 import Footer from "./components/Footer.jsx";
 import Sports from "./components/Sports.jsx";
+import Navbar from "./components/Navbar.jsx";
 
 function App() {
   return (
     <div>
-      <Pros />
-      <AboutUs />
-      <ContactUs />
-      <Masters />
-      <Sports />
-      <Gallery />
-      <Footer />
+        <Navbar />
+        <Pros />
+        <AboutUs />
+        <ContactUs />
+        <Masters />
+        <Sports />
+        <Gallery />
+        <Footer />
 
 
     </div>
