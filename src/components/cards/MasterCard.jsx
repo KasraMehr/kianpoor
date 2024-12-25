@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import '../../index.css'
-import D from '../../assets/D.jpg'
+import D from '../../assets/images/D.jpg'
 function MasterCard() {
   return (
     <>

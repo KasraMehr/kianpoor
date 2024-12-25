@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import '../../index.css'
-import Money from '../../assets/money.svg'
+import Money from '../../assets/images/money.svg'
 function ProCode2() {
   return (
     <>

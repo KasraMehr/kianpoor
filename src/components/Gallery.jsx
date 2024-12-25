@@ -1,14 +1,14 @@
 import { useState } from 'react'
 import '../index.css'
-import A from '../assets/A.jpg'
-import B from '../assets/B.jpg'
-import C from '../assets/C.jpg'
-import D from '../assets/D.jpg'
-import E from '../assets/E.jpg'
-import F from '../assets/F.jpg'
-import G from '../assets/G.jpg'
-import H from '../assets/H.jpg'
-import I from '../assets/I.jpg'
+import A from '../assets/images/A.jpg'
+import B from '../assets/images/B.jpg'
+import C from '../assets/images/C.jpg'
+import D from '../assets/images/D.jpg'
+import E from '../assets/images/E.jpg'
+import F from '../assets/images/F.jpg'
+import G from '../assets/images/G.jpg'
+import H from '../assets/images/H.jpg'
+import I from '../assets/images/I.jpg'
 
 
 function Gallery() {

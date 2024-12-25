@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import '../../index.css'
-import Dumble from '../../assets/dumble.svg'
+import Dumble from '../../assets/images/dumble.svg'
 function ProCode3() {
   return (
     <>

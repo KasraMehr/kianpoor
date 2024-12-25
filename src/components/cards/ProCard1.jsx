@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import '../../index.css'
-import Karate from '../../assets/karate.svg'
+import Karate from '../../assets/images/karate.svg'
 function ProCode1() {
   return (
     <>
