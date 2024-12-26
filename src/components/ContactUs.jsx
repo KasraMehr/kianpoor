@@ -6,7 +6,7 @@ function ContactUs() {
   return (
       <>
         <div className="bg-primary flex flex-col w-full text-white mt-24 place-items-center pb-20" dir="rtl">
-          <div className="text-2xl sm:text-3xl lg:text-4xl font-bold pt-20 text-center">
+          <div className="text-2xl sm:text-3xl lg:text-4xl font-medium pt-20 text-center">
             همین حالا ثبت نام کنید
           </div>
           <div className="text-sm sm:text-base font-medium pt-4 text-center">
@@ -37,7 +37,7 @@ function ContactUs() {
             </div>
             <div className="pt-12 flex flex-col sm:flex-row justify-center items-center space-y-6 sm:space-y-0 sm:space-x-8 lg:space-x-12">
               <div className="font-medium text-lg sm:text-xl lg:text-2xl sm:ml-4">
-                تلفن ثابت
+                شماره ثابت
               </div>
               <div className="bg-active rounded-lg text-sm sm:text-base lg:text-xl px-6 sm:px-12 py-2">
                 02632828066

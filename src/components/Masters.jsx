@@ -9,7 +9,7 @@ function Masters() {
       <>
         <div className="px-4 sm:px-10 lg:px-20 pt-24" dir="rtl">
           {/* عنوان */}
-          <div className="text-2xl sm:text-3xl font-semibold text-center">
+          <div className="text-2xl sm:text-3xl font-medium text-center">
             اساتید باشگاه کیانپور
           </div>
 

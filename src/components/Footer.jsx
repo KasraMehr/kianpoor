@@ -11,7 +11,7 @@ function Footer() {
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         {/* بخش اطلاعات */}
                         <div className="text-center lg:text-right">
-                            <div className="text-3xl md:text-4xl font-bold">
+                            <div className="text-3xl md:text-4xl font-medium">
                                 مجموعه ورزشی شهید کیانپور
                             </div>
                             <div className="text-base md:text-lg lg:text-xl mt-6 leading-7 md:leading-8 text-justify">

@@ -10,9 +10,8 @@ function Hero() {
             >
                 {/* متن */}
                 <div className="w-full lg:w-1/2 px-4 lg:px-8">
-                    <div className="text-4xl sm:text-5xl font-bold py-5 sm:py-10">
+                    <div className="text-4xl sm:text-5xl font-medium py-5 sm:py-10">
                         باشگاه فرهنگی ورزشی
-                        <br />
                         شهید کیانپور
                     </div>
                     <div className="text-lg sm:text-xl font-regular text-justify py-5 sm:py-10">

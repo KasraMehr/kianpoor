@@ -14,7 +14,7 @@ function Gallery() {
   return (
       <>
         <div className="px-4 sm:px-10 lg:px-20 pt-16" dir="rtl">
-          <div className="text-2xl md:text-3xl font-semibold text-center">
+          <div className="text-2xl md:text-3xl font-medium text-center">
             گالری
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 pt-10">

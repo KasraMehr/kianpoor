@@ -8,7 +8,7 @@ function Pros() {
         <>
             <div className="pt-24 px-4 sm:px-10 lg:px-20">
                 {/* عنوان */}
-                <div className="text-2xl sm:text-3xl font-semibold text-center" dir="rtl">
+                <div className="text-2xl sm:text-3xl font-medium text-center" dir="rtl">
                     مزایای باشگاه کیانپور
                 </div>
 
