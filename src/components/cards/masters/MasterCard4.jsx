@@ -9,14 +9,14 @@ function MasterCard4() {
           <img
               src={Salehi}
               alt="Salehi"
-              className="w-48 h-48 sm:w-96 sm:h-96 shadow-lg"
+              className="w-48 h-48 sm:w-96 sm:h-96 shadow-lg rounded-t-lg"
           />
           {/* نام */}
           <div className="bg-secondary w-48 sm:w-96 text-center text-lg sm:text-xl font-medium py-2">
             مرتضی صالحی و بابک نیکبخت
           </div>
           {/* رشته ورزشی */}
-          <div className="bg-secondary w-48 sm:w-96 text-center text-sm sm:text-base font-medium py-2">
+          <div className="bg-secondary w-48 sm:w-96 text-center text-sm sm:text-base font-medium py-2 rounded-b-lg">
             بسکتبال
           </div>
         </div>
