@@ -4,7 +4,7 @@ import aboutKianpoor from '../assets/images/website/aboutKianpoor.png';
 function AboutUs() {
   return (
       <>
-        <div id="about-us" className="flex flex-col lg:flex-row justify-center items-center mt-12 lg:mt-24 px-4 lg:px-12" dir="rtl">
+        <div id="about-us" className="flex flex-col lg:flex-row justify-center items-center pt-24 px-4 lg:px-12" dir="rtl">
           {/* متن */}
           <div className="lg:w-5/12 w-full lg:ml-12 mb-8 lg:mb-0">
             <div className="text-xl sm:text-2xl lg:text-3xl font-medium text-center lg:text-right">
