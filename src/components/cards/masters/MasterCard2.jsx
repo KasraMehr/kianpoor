@@ -1,14 +1,14 @@
-import '../../index.css';
-import D from '../../assets/images/D.jpg';
+import '../../../index.css';
+import Mehralizadeh from '../../../assets/images/masters/Mehralizadeh.jpg';
 
-function MasterCard1() {
+function MasterCard2() {
   return (
       <>
         <div className="flex flex-col items-center sm:items-start sm:pl-10">
           {/* تصویر */}
           <img
-              src={D}
-              alt="MasterCard1"
+              src={Mehralizadeh}
+              alt="Mehralizadeh"
               className="w-48 h-48 sm:w-96 sm:h-96 shadow-lg"
           />
           {/* نام */}
@@ -24,4 +24,4 @@ function MasterCard1() {
   );
 }
 
-export default MasterCard1;
+export default MasterCard2;

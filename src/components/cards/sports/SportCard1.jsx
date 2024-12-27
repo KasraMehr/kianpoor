@@ -1,5 +1,5 @@
-import '../../index.css';
-import taekwondo from '../../assets/images/taekwondo.png';
+import '../../../index.css';
+import taekwondo from '../../../assets/images/sports/taekwondo.jpeg';
 
 function SportCard1() {
     return (

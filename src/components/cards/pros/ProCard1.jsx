@@ -1,5 +1,5 @@
-import '../../index.css';
-import Karate from '../../assets/images/karate.svg';
+import '../../../index.css';
+import Karate from '../../../assets/images/website/karate.svg';
 
 function ProCode1() {
   return (

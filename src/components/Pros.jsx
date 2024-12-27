@@ -1,7 +1,7 @@
 import '../index.css';
-import ProCard1 from './cards/ProCard1.jsx';
-import ProCard2 from './cards/ProCard2.jsx';
-import ProCard3 from './cards/ProCard3.jsx';
+import ProCard1 from './cards/pros/ProCard1.jsx';
+import ProCard2 from './cards/pros/ProCard2.jsx';
+import ProCard3 from './cards/pros/ProCard3.jsx';
 
 function Pros() {
     return (

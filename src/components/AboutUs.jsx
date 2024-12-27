@@ -1,5 +1,5 @@
 import '../index.css';
-import aboutKianpoor from '../assets/images/aboutKianpoor.png';
+import aboutKianpoor from '../assets/images/website/aboutKianpoor.png';
 
 function AboutUs() {
   return (

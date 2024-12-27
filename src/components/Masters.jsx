@@ -1,7 +1,12 @@
 import { useState } from 'react';
-import MasterCard1 from './cards/MasterCard1.jsx';
-import MasterCard2 from './cards/MasterCard2.jsx';
-import MasterCard3 from './cards/MasterCard3.jsx';
+import MasterCard1 from './cards/masters/MasterCard1.jsx';
+import MasterCard2 from './cards/masters/MasterCard2.jsx';
+import MasterCard3 from './cards/masters/MasterCard3.jsx';
+import MasterCard4 from './cards/masters/MasterCard4.jsx';
+import MasterCard5 from './cards/masters/MasterCard5.jsx';
+import MasterCard6 from './cards/masters/MasterCard6.jsx';
+import MasterCard7 from './cards/masters/MasterCard7.jsx';
+
 import '../index.css';
 
 function Masters() {
@@ -18,12 +23,10 @@ function Masters() {
             <MasterCard1 />
             <MasterCard2 />
             <MasterCard3 />
-            <MasterCard1 />
-            <MasterCard2 />
-            <MasterCard3 />
-            <MasterCard1 />
-            <MasterCard2 />
-            <MasterCard3 />
+            <MasterCard4 />
+            <MasterCard5 />
+            <MasterCard6 />
+            <MasterCard7 />
           </div>
         </div>
       </>

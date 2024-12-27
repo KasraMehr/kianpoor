@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import '../index.css';
-import Telegram from '../assets/images/telegram.svg';
-import Instagram from '../assets/images/instagram.svg';
+import Telegram from '../assets/images/website/telegram.svg';
+import Instagram from '../assets/images/website/instagram.svg';
 
 function Footer() {
     return (
