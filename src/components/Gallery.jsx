@@ -13,7 +13,7 @@ import I from '../assets/images/I.jpg';
 function Gallery() {
   return (
       <>
-        <div className="px-4 sm:px-10 lg:px-20 pt-16" dir="rtl">
+        <div id="gallery" className="px-4 sm:px-10 lg:px-20 pt-16" dir="rtl">
           <div className="text-2xl md:text-3xl font-medium text-center">
             گالری
           </div>

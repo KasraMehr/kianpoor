@@ -5,7 +5,7 @@ import Instagram from '../assets/images/instagram.svg';
 function ContactUs() {
   return (
       <>
-        <div className="bg-primary flex flex-col w-full text-white mt-24 place-items-center pb-20" dir="rtl">
+        <div id="contact-us" className="bg-primary flex flex-col w-full text-white mt-24 place-items-center pb-20" dir="rtl">
           <div className="text-2xl sm:text-3xl lg:text-4xl font-medium pt-20 text-center">
             همین حالا ثبت نام کنید
           </div>

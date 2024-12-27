@@ -4,8 +4,7 @@ import hero from '../assets/images/hero.png';
 function Hero() {
     return (
         <>
-            <div
-                className="bg-primary w-full flex flex-col lg:flex-row items-center lg:items-start p-10 lg:p-20 text-white"
+            <div id="hero" className="bg-primary w-full flex flex-col lg:flex-row items-center lg:items-start p-10 lg:p-20 text-white"
                 dir="rtl"
             >
                 {/* متن */}

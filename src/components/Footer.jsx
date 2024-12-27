@@ -25,19 +25,22 @@ function Footer() {
                         {/* بخش لینک‌ها و آیکون‌ها */}
                         <div className="text-center">
                             <div className="grid grid-cols-1 gap-4">
-                                <a href="#" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                <a href="#hero" className="text-lg md:text-xl font-medium hover:text-gray-300">
                                     صفحه اصلی
                                 </a>
-                                <a href="#" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                <a href="#about-us" className="text-lg md:text-xl font-medium hover:text-gray-300">
                                     درباره ما
                                 </a>
-                                <a href="#" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                <a href="#contact-us" className="text-lg md:text-xl font-medium hover:text-gray-300">
                                     تماس با ما
                                 </a>
-                                <a href="#" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                <a href="#masters" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                  اساتید
+                                </a>
+                                <a href="#sports" className="text-lg md:text-xl font-medium hover:text-gray-300">
                                     ورزش‌ها
                                 </a>
-                                <a href="#" className="text-lg md:text-xl font-medium hover:text-gray-300">
+                                <a href="#gallery" className="text-lg md:text-xl font-medium hover:text-gray-300">
                                     گالری
                                 </a>
                             </div>

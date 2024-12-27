@@ -6,25 +6,28 @@ function Navbar() {
 
     return (
         <>
-            <nav className="w-full pt-5 text-white bg-primary overflow-hidden" dir="rtl">
+            <nav className="fixed top-0 z-50 w-full py-2 text-white bg-primary overflow-hidden" dir="rtl">
                 <div className="flex justify-between items-center px-4 sm:px-8">
                     {/* منوی اصلی */}
                     <div className="hidden sm:block">
                         <div className="flex text-white pr-10">
-                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
+                            <a href="#hero" className="px-6 py-2 text-xl font-regular text-white">
                                 خانه
                             </a>
-                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
+                            <a href="#about-us" className="px-6 py-2 text-xl font-regular text-white">
                                 درباره ما
                             </a>
-                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
+                            <a href="#contact-us" className="px-6 py-2 text-xl font-regular text-white">
                                 تماس با ما
                             </a>
-                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
+                            <a href="#masters" className="px-6 py-2 text-xl font-regular text-white">
                                 اساتید
                             </a>
-                            <a href="#" className="px-6 py-2 text-xl font-regular text-white">
+                            <a href="#sports" className="px-6 py-2 text-xl font-regular text-white">
                                 ورزش‌ها
+                            </a>
+                            <a href="#gallery" className="px-6 py-2 text-xl font-regular text-white">
+                              گالری
                             </a>
                         </div>
                     </div>
