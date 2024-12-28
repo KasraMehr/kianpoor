@@ -45,8 +45,8 @@ function Footer() {
                                 </a>
                             </div>
                             <div className="flex justify-center mt-8 space-x-8 rtl:space-x-reverse">
-                                <img src={Telegram} alt="telegram" className="w-8 h-8 md:w-10 md:h-10" />
-                                <img src={Instagram} alt="instagram" className="w-8 h-8 md:w-10 md:h-10" />
+                                <a href="https://t.me/kianepor" target="_blank"><img src={Telegram} alt="telegram" className="w-8 h-8 md:w-10 md:h-10" /></a>
+                                <a href="https://t.me/kianepor" target="_blank"><img src={Instagram} alt="instagram" className="w-8 h-8 md:w-10 md:h-10" /></a>
                             </div>
                         </div>
                     </div>

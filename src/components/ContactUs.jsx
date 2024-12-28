@@ -44,8 +44,8 @@ function ContactUs() {
               </div>
             </div>
             <div className="pt-12 flex justify-center sm:space-x-8 lg:space-x-12">
-              <img src={Telegram} alt="telegram" className="w-10 sm:w-12 lg:w-16 ml-6" />
-              <img src={Instagram} alt="instagram" className="w-10 sm:w-12 lg:w-16 mr-6" />
+              <a href="https://t.me/kianepor" target="_blank"><img src={Telegram} alt="telegram" className="w-10 sm:w-12 lg:w-16 ml-6" /></a>
+              <a href="https://t.me/kianepor" target="_blank"><img src={Instagram} alt="instagram" className="w-10 sm:w-12 lg:w-16 mr-6" /></a>
             </div>
           </div>
         </div>

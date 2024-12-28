@@ -69,20 +69,23 @@ function Navbar() {
                 {/* منوی موبایل */}
                 <div className={`${isMobileMenuOpen ? 'block' : 'hidden'} sm:hidden`} id="mobile-menu">
                     <div className="space-y-1 px-4 pb-3 pt-2 text-right text-white">
-                        <a href="#" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                        <a href="#hero" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                             خانه
                         </a>
-                        <a href="#" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                        <a href="#about-us" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                             درباره ما
                         </a>
-                        <a href="#" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                        <a href="#contact-us" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                             تماس با ما
                         </a>
-                        <a href="#" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                        <a href="#masters" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                             اساتید
                         </a>
-                        <a href="#" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                        <a href="#sports" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
                             ورزش‌ها
+                        </a>
+                        <a href="#gallery" className="block px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                            گالری
                         </a>
                     </div>
                 </div>
