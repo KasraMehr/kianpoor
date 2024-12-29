@@ -10,7 +10,7 @@ function ContactUs() {
             همین حالا ثبت نام کنید
           </div>
           <div className="text-sm sm:text-base font-medium pt-4 text-center">
-            به جمع ما بپیوندید و از امکانات بی‌نظیر ورزشی بهره‌مند شوید.
+            کرج - بلوار هفت تیر - نرسیده به میدان امام حسین
           </div>
           <div className="w-11/12 sm:w-9/12 lg:w-8/12 border flex flex-col border-white border-2 mt-20 items-center rounded-2xl pb-6">
             <div className="pt-8 font-medium text-xl sm:text-2xl lg:text-3xl text-center">
