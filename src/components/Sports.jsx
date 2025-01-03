@@ -5,6 +5,7 @@ import SportCard3 from './cards/sports/SportCard3.jsx';
 import SportCard4 from './cards/sports/SportCard4.jsx';
 import SportCard5 from './cards/sports/SportCard5.jsx';
 import SportCard6 from './cards/sports/SportCard6.jsx';
+import SportCard7 from './cards/sports/SportCard7.jsx';
 
 function Sports() {
   return (
@@ -23,6 +24,7 @@ function Sports() {
             <SportCard4 />
             <SportCard5 />
             <SportCard6 />
+            <SportCard7 />
           </div>
         </div>
       </>
