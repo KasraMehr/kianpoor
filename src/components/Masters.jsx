@@ -8,6 +8,7 @@ import MasterCard6 from './cards/masters/MasterCard6.jsx';
 import MasterCard7 from './cards/masters/MasterCard7.jsx';
 import MasterCard8 from './cards/masters/MasterCard8.jsx';
 import MasterCard9 from './cards/masters/MasterCard9.jsx';
+import MasterCard10 from './cards/masters/MasterCard10.jsx';
 
 import '../index.css';
 
@@ -31,6 +32,7 @@ function Masters() {
             <MasterCard6 />
             <MasterCard7 />
             <MasterCard9 />
+            <MasterCard10 />
           </div>
         </div>
       </>

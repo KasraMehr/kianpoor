@@ -20,6 +20,9 @@ import B5 from '../assets/images/gallery/B5.jpg';
 import C5 from '../assets/images/gallery/C5.jpg';
 import A6 from '../assets/images/gallery/A6.jpg';
 import B6 from '../assets/images/gallery/B6.jpg';
+import C6 from '../assets/images/gallery/C6.jpg';
+import A7 from '../assets/images/gallery/A7.jpg';
+
 
 function Gallery() {
   return (
@@ -49,6 +52,8 @@ function Gallery() {
             <img src={C5} alt="img3" className="w-full h-60 sm:h-72 lg:h-80 rounded object-cover" />
             <img src={A6} alt="img1" className="w-full h-60 sm:h-72 lg:h-80 rounded object-cover" />
             <img src={B6} alt="img2" className="w-full h-60 sm:h-72 lg:h-80 rounded object-cover" />
+            <img src={C6} alt="img2" className="w-full h-60 sm:h-72 lg:h-80 rounded object-cover" />
+            <img src={A7} alt="img2" className="w-full h-60 sm:h-72 lg:h-80 rounded object-cover" />
           </div>
         </div>
       </>
